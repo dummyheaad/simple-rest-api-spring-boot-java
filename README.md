@@ -1,1 +1,3 @@
-# simple-rest-api-spring-boot-java
+# Tutorials API
+- Language: Java
+- Framework: Spring Boot
